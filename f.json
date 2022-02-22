@@ -32,17 +32,7 @@
                     "image-780x1200": "02/Captura-de-Pantalla-2022-02-22-a-las-0.33.09-e1645511648305.png",
                     "title": "Tutorial: ¿Qué son los drills y cómo ejecutarlos?",
                     "studio": "wOS - 2021",
-                    "duration" : 333,
-                    "tracks": [
-                        {
-                            "id": "1",
-                            "type": "text",
-                            "subtype": "captions",
-                            "contentId": "DesigningForGoogleCast-en.vtt",
-                            "name": "English Subtitle",
-                            "language": "en-US"
-                        }
-                    ]
+                    "duration" : 333
                 }
             ]
         }
