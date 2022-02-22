@@ -1,0 +1,50 @@
+{
+    "categories": [
+        {
+            "name": "Movies",
+            "hls":"https://psicoralia.com/wp-content/uploads/2022/02/",
+            "dash":"https://psicoralia.com/wp-content/uploads/2022/02/",
+            "mp4":"https://psicoralia.com/wp-content/uploads/2022/02/",
+            "images":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/images/",
+            "tracks":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/tracks/",
+            "videos": [
+                {
+                    "subtitle": "Los coaches Vikingo y Carpizo te comparten algunos drills que hacían cuando jugaban americano.",
+                    "sources": [
+                        {
+                            "type": "hls",
+                            "mime": "application/x-mpegurl",
+                            "url": "Tutorial-¿Qué-son-los-drills-y-cómo-ejecutarlos.mp4"
+                        },
+                        {
+                            "type": "dash",
+                            "mime": "application/dash+xml",
+                            "url": "DTutorial-¿Qué-son-los-drills-y-cómo-ejecutarlos.mp4"
+                        },
+                        {
+                            "type": "mp4",
+                            "mime": "videos/mp4",
+                            "url": "Tutorial-¿Qué-son-los-drills-y-cómo-ejecutarlos.mp4"
+                        }
+                    ],
+                    "thumb": "images/DesigningForGoogleCast-480x270.jpg",
+                    "image-480x270": "480x270/DesigningForGoogleCast2-480x270.jpg",
+                    "image-780x1200": "780x1200/DesigningForGoogleCast-887x1200.jpg",
+                    "title": "Designing For Google Cast",
+                    "studio": "Google IO - 2014",
+                    "duration" : 333,
+                    "tracks": [
+                        {
+                            "id": "1",
+                            "type": "text",
+                            "subtype": "captions",
+                            "contentId": "DesigningForGoogleCast-en.vtt",
+                            "name": "English Subtitle",
+                            "language": "en-US"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
