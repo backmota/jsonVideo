@@ -1,7 +1,7 @@
 {
     "categories": [
         {
-            "name": "Movies",
+            "name": "Workups",
             "hls":"https://psicoralia.com/wp-content/uploads/2022/02/",
             "dash":"https://psicoralia.com/wp-content/uploads/2022/02/",
             "mp4":"https://psicoralia.com/wp-content/uploads/2022/02/",
@@ -30,8 +30,8 @@
                     "thumb": "images/DesigningForGoogleCast-480x270.jpg",
                     "image-480x270": "480x270/DesigningForGoogleCast2-480x270.jpg",
                     "image-780x1200": "780x1200/DesigningForGoogleCast-887x1200.jpg",
-                    "title": "Designing For Google Cast",
-                    "studio": "Google IO - 2014",
+                    "title": "Tutorial: ¿Qué son los drills y cómo ejecutarlos?",
+                    "studio": "wOS - 2021",
                     "duration" : 333,
                     "tracks": [
                         {
