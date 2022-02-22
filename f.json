@@ -12,16 +12,6 @@
                     "subtitle": "Los coaches Vikingo y Carpizo te comparten algunos drills que hacían cuando jugaban americano.",
                     "sources": [
                         {
-                            "type": "hls",
-                            "mime": "application/x-mpegurl",
-                            "url": "02/Tutorial-¿Qué-son-los-drills-y-cómo-ejecutarlos.mp4"
-                        },
-                        {
-                            "type": "dash",
-                            "mime": "application/dash+xml",
-                            "url": "02/Tutorial-¿Qué-son-los-drills-y-cómo-ejecutarlos.mp4"
-                        },
-                        {
                             "type": "mp4",
                             "mime": "videos/mp4",
                             "url": "02/Tutorial-¿Qué-son-los-drills-y-cómo-ejecutarlos.mp4"
