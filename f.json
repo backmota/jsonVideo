@@ -2,9 +2,9 @@
     "categories": [
         {
             "name": "Workups",
-            "hls":"https://psicoralia.com/wp-content/uploads/2022/02/",
-            "dash":"https://psicoralia.com/wp-content/uploads/2022/02/",
-            "mp4":"https://psicoralia.com/wp-content/uploads/2022/02/",
+            "hls":"https://psicoralia.com/wp-content/uploads/2022/",
+            "dash":"https://psicoralia.com/wp-content/uploads/2022/",
+            "mp4":"https://psicoralia.com/wp-content/uploads/2022/",
             "images":"https://psicoralia.com/wp-content/uploads/2022/",
             "tracks":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/tracks/",
             "videos": [
@@ -14,22 +14,22 @@
                         {
                             "type": "hls",
                             "mime": "application/x-mpegurl",
-                            "url": "Tutorial-¿Qué-son-los-drills-y-cómo-ejecutarlos.mp4"
+                            "url": "02/Tutorial-¿Qué-son-los-drills-y-cómo-ejecutarlos.mp4"
                         },
                         {
                             "type": "dash",
                             "mime": "application/dash+xml",
-                            "url": "DTutorial-¿Qué-son-los-drills-y-cómo-ejecutarlos.mp4"
+                            "url": "02/Tutorial-¿Qué-son-los-drills-y-cómo-ejecutarlos.mp4"
                         },
                         {
                             "type": "mp4",
                             "mime": "videos/mp4",
-                            "url": "Tutorial-¿Qué-son-los-drills-y-cómo-ejecutarlos.mp4"
+                            "url": "02/Tutorial-¿Qué-son-los-drills-y-cómo-ejecutarlos.mp4"
                         }
                     ],
                     "thumb": "images/DesigningForGoogleCast-480x270.jpg",
-                    "image-480x270": "02/Captura-de-Pantalla-2022-02-22-a-las-0.33.09-e1645511648305.png",
-                    "image-780x1200": "02/Captura-de-Pantalla-2022-02-22-a-las-0.33.09-e1645511648305.png",
+                    "image-480x270": "02/wos.jpg",
+                    "image-780x1200": "02/wos.jpg",
                     "title": "Tutorial: ¿Qué son los drills y cómo ejecutarlos?",
                     "studio": "wOS - 2021",
                     "duration" : 333
